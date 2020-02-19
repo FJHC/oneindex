@@ -1,10 +1,10 @@
 <?php return array (
-  'site_name' => 'OneIndex',
+  'site_name' => 'hechuan4444_E5续订',
   'password' => '1479696753+o',
   'style' => 'material',
   'onedrive_root' => '',
   'cache_type' => 'secache',
-  'cache_expire_time' => 3600,
+  'cache_expire_time' => 600,
   'cache_refresh_time' => 600,
   'root_path' => '?',
   'show' => 
